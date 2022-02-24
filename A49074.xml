@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the maior to the aldermen of the ward of [blank] : whereas divers good laws have formerly been made, and are still in force against several wicked and disorderly practices ...</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49074</idno>
+            <idno type="STC">Wing L2886L</idno>
+            <idno type="STC">ESTC R39662</idno>
+            <idno type="EEBO-CITATION">18461838</idno>
+            <idno type="OCLC">ocm 18461838</idno>
+            <idno type="VID">107747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107747)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1638:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the maior to the aldermen of the ward of [blank] : whereas divers good laws have formerly been made, and are still in force against several wicked and disorderly practices ...</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Roycroft ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Second part of title taken from first line of text.</note>
+                  <note>Order against profamation of the Lord's Day.</note>
+                  <note>"Given this eighth day of November 1687"-- p. 4.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sabbath legislation --  England.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb n="1" facs="tcp:107747:1"/>
+            <!-- PDF PAGE 61 -->
+            <head>
+               <figure>
+                  <figDesc>coat of arms of the City of London</figDesc>
+               </figure>
+            </head>
+            <head>By the Maior.</head>
+            <head>To the Alderman of the Ward of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>
+            </head>
+            <p>WHEREAS divers good Laws have formerly been made, and are ſtill in force againſt ſeveral wicked and diſorderly Pra<g ref="char:EOLhyphen"/>ctices, which through the o<g ref="char:EOLhyphen"/>miſſion of the Magiſtrate and Officers concern'd to put the ſame in Execution, are openly and notoriouſly violated and broken within this City, to the great Offence of Almighty God, Diſ<g ref="char:EOLhyphen"/>honour of the Chriſtian Religion, and Scandal and Reproach of the Citizens and Inhabitants of this City, and not without a juſt Imputati<g ref="char:EOLhyphen"/>on
+<pb n="2" facs="tcp:107747:2"/>
+               <!-- PDF PAGE 62 -->upon the Government thereof. And whereas it is Incumbent upon me to Correct, Suppreſs, and Prevent (as much as in me lies) all kinds of Enormities and Diſorders within this City, and to Invite and Ingage all my Brethren the Alder<g ref="char:EOLhyphen"/>men to concur and joyn with me in that Per<g ref="char:EOLhyphen"/>formance; Wherein having communicated to them my Intentions at a Court of Aldermen, they have readily and heartily promiſed and un<g ref="char:EOLhyphen"/>dertaken in their Stations to further and promote the ſame.</p>
+            <p>Wherefore, by Advice of my ſaid Brethren the Aldermen, Theſe are to deſire, and in His Maje<g ref="char:EOLhyphen"/>ſties Name to charge you from time to time to exert your Care and your Authority (in all Parts of this City, as you ſhall have Opportunity, and eſpecially within your Ward) for the Puniſh<g ref="char:EOLhyphen"/>ment and Extirpation, as much as is poſſible, of all Lewd, Enormous, and Diſorderly Practices; Some Inſtances of which kind, being moſt noto<g ref="char:EOLhyphen"/>rious and ſcandalous, I have thought fit more particularly to recommend to your Care (not to leſſen it in reference to other Enormities, but to ingage you more immediately to the Proſecution of ſuch as follow, namely)
+<list>
+                  <item>The Prophanation of the Lord's Day by Peoples Exerciſe of their ordinary Callings on that Day, and Tipling or uſing other vain Imployment, and neglecting the Worſhip and Service of God.</item>
+                  <pb n="3" facs="tcp:107747:2"/>
+                  <!-- PDF PAGE 62 -->
+                  <item>The Sin of Drunkenneſs.</item>
+                  <item>And profane Curſing and Swearing.</item>
+               </list>
+Which being very heinous, and yet grown very common, require the more vigorous Endea<g ref="char:EOLhyphen"/>vour of all Perſons in Authority to ſuppreſs them.</p>
+            <p>And then Vagabonds and Beggars (which though of leſs Conſequence than any of the for<g ref="char:EOLhyphen"/>mer, yet) exceedingly peſtering and anoying the Streets and Publick Places within this City, and being given me ſtrictly in Charge by my Lord Chief Baron when I took my Oath at the <hi>Exchequer,</hi> I recommend likewiſe particularly to your Care the clearing of the Streets from that living Nuſance.</p>
+            <p>In all which Caſes, in regard ſufficient Provi<g ref="char:EOLhyphen"/>ſion hath been made by Acts of Parliament, I have cauſed ſuch Acts as provide againſt the ſaid Enormities to be Abbreviated and added here<g ref="char:EOLhyphen"/>unto, for your better knowledge of the Laws in that behalf, and the better Execution there<g ref="char:EOLhyphen"/>of.</p>
+            <p>And you are required frequently to Charge and Admoniſh all Conſtables and other Officers within your Ward, That they omit not to do their parts diligently and carefully for putting the ſaid Laws reſpectively in Execution againſt all Offenders thereof: And on the Lord's Days par<g ref="char:EOLhyphen"/>ticularly that they be careful to ſearch for all Perſons that ſhall continue Tipling in Taverns Ale-houſes, or Coffee-houſes, and both them,
+<pb n="4" facs="tcp:107747:3"/>
+               <!-- PDF PAGE 63 -->and the Maſters of the ſaid Houſes, and all o<g ref="char:EOLhyphen"/>ther Offenders againſt any of the ſaid Laws, that they cauſe them to undergo the Penalties thereby reſpectively inflicted.</p>
+            <p>And you are alſo deſired to call all the Con<g ref="char:EOLhyphen"/>ſtables, and other Officers of your Ward, fre<g ref="char:EOLhyphen"/>quently to Account, and Inform your ſelf how they ſhall have performed their Duties in all the aforeſaid Particulars; and ſuch of them as you ſhall at any time find remiſs or negligent there<g ref="char:EOLhyphen"/>in, That you cauſe the Forfeitures impoſed by the ſaid Laws in that behalf to be daily levied upon them accordingly; or otherwiſe that they be bound over to the Seſſions of the Peace, there to anſwer the ſame. Hereof fail not as you tender the Honour and Service of Almighty God, and the Publick Weal of this City.</p>
+            <closer>
+               <dateline>Gi<g ref="char:EOLhyphen"/>ven <date>this Eighth Day of <hi>November</hi> 1687. and in the Third Year of his Majeſties Reign.</date>
+               </dateline>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+         <div type="summary_of_relevant_laws">
+            <pb n="5" facs="tcp:107747:3"/>
+            <!-- PDF PAGE 63 -->
+            <head>A BREVIATE OF THE ACTS of PARLIAMENT.</head>
+            <div type="part">
+               <head>The Lord's Day.</head>
+               <p>
+                  <label>STat. 1 Jac. cap. 22. (continued 3 Car. 1. cap. 4. &amp; 17 Car. 1. cap. 4.)</label> No Shoemaker ſhall ſhew (for Sale) any Shoes, Boots, Slippers, <hi>&amp;c.</hi> on the Sunday, on pain of forfeiting Thrée ſhillings four pence for e<g ref="char:EOLhyphen"/>very pair made, ſold, or put to ſale, and the value of them beſides. The Offender to be bound over to anſwer the ſame at the Seſſions of Peace.</p>
+               <p>
+                  <label>Stat. 1 Car. 1. cap. 1. Reciting,</label> That the holy kéeping the Lord's Day is a principal part of the true Service of God, Enacts That there ſhall be no Méetings or Concourſe of People on that Day out of their own Pariſhes for any Sports or Paſtimes whatſoever; Nor any Bear-beating, Enterludes, or other unlawful Exerciſes and Paſtimes u<g ref="char:EOLhyphen"/>ſed by any within their own Pariſhes. The Offender to forfeit Thrée ſhillings four pence to the Poor of the Pa<g ref="char:EOLhyphen"/>riſh where the ſaid Offence is committed. A Iuſtice of Peace upon view, or the Parties confeſſion, or proof upon Oath, ſhall grant a Warrant to the Conſtables or Church<g ref="char:EOLhyphen"/>wardens to levy the ſaid Penalty by Diſtreſs and Sale of
+<pb n="6" facs="tcp:107747:4"/>
+                  <!-- PDF PAGE 64 -->the Offenders Goods. In default of Diſtreſs, he is to ſit Thrée hours in the Stocks. The Offender muſt be queſtioned within a Month.</p>
+               <p>
+                  <label>3 Car. 1. cap. 1.</label> No Carrier with Horſes or Waggons, nor Carman with Carts, nor Drover with Cattel, ſhall tra<g ref="char:EOLhyphen"/>vel on the Lord's Day on forfeiture of Twenty ſhillings. No Butcher by himſelf, or other, to kill or ſell Victual, on forfeiture of Six ſhillings eight pence; being done in view of a Iuſtice of Peace, or proved by two Witneſſes upon Oath, or the Parties confeſſion; The ſaid Penalties to be levied by the Conſtable or Churchwarden by Warrant from the ſaid Iuſtice, by Diſtreſs and Sale of the Offenders Goods, rendring the Overplus, and to go to the Poor of the Pariſh where the Offence is committed, Except what the ſaid Iu<g ref="char:EOLhyphen"/>ſtice ſhall give (not excéeding a third part) for a Reward to the Informer or Proſecutor. The Offender muſt be que<g ref="char:EOLhyphen"/>ſtioned within Six Months.</p>
+               <p>
+                  <hi>Both thoſe Acts continued <hi>per</hi> Stat. 17 <hi>Car.</hi> 1. <hi>cap.</hi> 4.</hi>
+               </p>
+               <p>
+                  <label>29 Car. 2. Intituled for Obſervation of the Lord's Day.</label> All Perſons on that Day to apply themſelves to the Ob<g ref="char:EOLhyphen"/>ſervation thereof, by Exerciſing themſelves thereon in the Duties of Piety and true Religion publickly and private<g ref="char:EOLhyphen"/>ly. And that no Trades-man or other, Exerciſe worldly Labour, or Work of their ordinary Callings (Works of Neceſſity and Charity excepted) Offenders (being of the Age of Fouriéen) to forfeit Five ſhillings.</p>
+               <p>None publickly to cry or ſhew Wares, Fruit, &amp;c. on pain to forfeit the Goods.</p>
+               <p>No Drover, Horſecourſer, Waggoner, Butcher, Higler, or their Servants, to travel or come to their Inn, on pain to forfeit Twenty ſhillings.</p>
+               <p>Boats not to be uſed on that Day unleſs on extraordi<g ref="char:EOLhyphen"/>nary Occaſions to be allowed by a Iuſtice of the Peace, on forfeiture of Five ſhillings. Vpon conviction by view of a Iuſtice of Peace, or confeſſion, or a Witneſſes Oath, the Iuſtice ſhall give a Warrant to the Conſtable or Church<g ref="char:EOLhyphen"/>wardens where the Offence is committed, to ſeize and ſell the Goods cried or put to ſale, and levy the other Forfei<g ref="char:EOLhyphen"/>tures by Diſtreſs. In default of Diſtreſs, or the Offen<g ref="char:EOLhyphen"/>ders
+<pb n="7" facs="tcp:107747:4"/>
+                  <!-- PDF PAGE 64 -->Ability to pay, to ſet them in the Stocks for Two hours. A third of the Forfeitures the Iuſtice may give to the Informer, and the Reſidue given to the Poor of the Pariſh where the Offence is committed.</p>
+               <p>Dreſſing and ſelling Meat in Inns, Victualing Houſes, <hi>&amp;c.</hi> for ſuch as cannot otherwiſe be provided, and crying of Milk before Nine in the Morning and after Four, Excep<g ref="char:EOLhyphen"/>ted. Proſecution muſt be within Ten days after the Of<g ref="char:EOLhyphen"/>fence.</p>
+               <p>If any Travelling on the Lord's Day be robbed, the Hundred not lyable; yet nevertheleſs ſhall make freſh Suit upon Huy and Cry.</p>
+               <p>No Writ, Proces, Order, Warrant, <hi>&amp;c.</hi> except for Breach of the Peach, ſhall be ſerved on that Day.</p>
+            </div>
+            <div type="part">
+               <head>Tipling.</head>
+               <p>
+                  <label>1 Jac. 9.</label> IF any Inn-kéeper, Victualer, or Alehouſe-kéeper permit any Perſon dwelling in the ſame City or Town, to continue drinking or Tipling in his Houſe, (un<g ref="char:EOLhyphen"/>leſs invited by a Traveller, and accompanying him only during his neceſſary abode there, and except labouring and handicrafts-men upon the uſual working days for an hour at dinner time, and except Labourers, who for following their Work in any Town, ſhall ſojourn or victual there, and except for neceſſary occaſions to be allowed by Two Iuſtices of the Peace) he ſhall for every Offence forfeit Ten ſhil<g ref="char:EOLhyphen"/>lings for the Poor of the Pariſh; the ſame being ſéen by a Iuſtice of the Peace, or proved before him by Two Witneſ<g ref="char:EOLhyphen"/>ſes. The ſaid Penalty to be levied by the Conſtable or Churchwardens of the Pariſh where the Offence is commit<g ref="char:EOLhyphen"/>ted, by Diſtreſs, to be apprized and ſold, if the Penalty be not paid within Six days, and the Surplus return'd to the owner. For want of ſufficient Diſtreſs, the Iuſtice may commit the Offender to the Common Goal, to remain till the Penalty paid.</p>
+               <p>Conſtables and Churchwardens neglecting to levy the Pe<g ref="char:EOLhyphen"/>nalties, or to certifie to a Iuſtice within Twenty days if no Diſtreſs, ſhall forfeit Forty ſhillings for the Poor of the
+<pb n="8" facs="tcp:107747:5"/>
+                  <!-- PDF PAGE 65 -->Pariſh, to be levied by Diſtreſs by Warrant from a Iu<g ref="char:EOLhyphen"/>ſtice of Peace, the ſame, if payment be not made in Six days, to be apprized and ſold as before.</p>
+            </div>
+            <div type="part">
+               <head>Drunkenneſs.</head>
+               <p>
+                  <label>4 Jac. cap. 5.</label> EVery Perſon that ſhall be drunk, and there<g ref="char:EOLhyphen"/>of lawfully convicted, ſhall forfeit Five ſhil<g ref="char:EOLhyphen"/>lings, to be paid within one Wèek after his Conviction to the Churchwardens of the Pariſh where the Offence ſhall be committed, to the uſe of the Poor. Vpon refuſal or neg<g ref="char:EOLhyphen"/>lect then to pay it, to be levied upon his Goods by War<g ref="char:EOLhyphen"/>rant from the Court, Iudge, or Iuſtices before whom the Conviction ſhall be. If he be not able to pay, then to be committed to the Stocks for Six hours.</p>
+               <p>Conſtable or other Officer, to whom it ſhall be given in Charge by Precept of the Maior or Iuſtices of the Peace within their Limits, neglecting to Correct the Offender, or Levy the Penalty, to forfeit Ten ſhillings to the Poor of that Pariſh, to be levied by Diſtreſs upon Warrant from ſuch Maior, or Iuſtices, or Court where the Conviction ſhall be.</p>
+            </div>
+            <div type="part">
+               <head>Tipling.</head>
+               <p>IF any Perſon continue drinking or tipling in any Iun, Vi<g ref="char:EOLhyphen"/>ctualing-houſe or Alehouſe, in the ſame City or Town where he dwells, and the ſame being viewed by a Iuſtice of Peace, or proved as is directed by the aforeſaid Statute of <hi>1 Jac.</hi> (unleſs in Caſes excepted in the ſaid Act) he ſhall forfeit for every Offence Thrée ſhillings four pence to the uſe of the Poor of the Pariſh where the Offence is com<g ref="char:EOLhyphen"/>mitted, to be levied by Diſtreſs in like manner as is be<g ref="char:EOLhyphen"/>fore appointed for being drunk. If the Offender, being lawfully convicted, be not able to pay, any Iuſtice of Peace, or the Court where the Conviction ſhall be, may ſet the Offender in the Stocks for Four hours.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:107747:5"/>
+               <!-- PDF PAGE 65 -->
+               <head>Drunkenneſs.</head>
+               <p>ANy Perſon once lawfully convicted of Drunkenneſs, and after that lawfully convicted again of the like Of<g ref="char:EOLhyphen"/>tence, ſhall be bound with Two Sureties in a Recogni<g ref="char:EOLhyphen"/>zance, or Bond of Ten pounds, to be of the Good Beha<g ref="char:EOLhyphen"/>viour.</p>
+               <p>Perſons to be preſented, indicted, or convicted within Six Months after the Offence, upon this Statute.</p>
+               <p>
+                  <hi>Stat. 21 Jac. cap. 7.</hi> The aforeſaid Statutes of <hi>1 &amp; 4 Jac.</hi> made perpetual. Where proof of Two Witneſſes is requi<g ref="char:EOLhyphen"/>red by the ſaid Two Statutes, One ſhall be ſufficient. Voluntary Confeſſion of the Party (before ſuch Perſons as by the ſaid Acts are to miniſter the Oath) ſhall ſuffice to convict him. After his Confeſſion, his Oath ſhall be proof againſt another Offender.</p>
+            </div>
+            <div type="part">
+               <head>Tipling.</head>
+               <p>IF any perſon, wherever his dwelling is, ſhall be found upon view, or his own confeſſion, or proof of one Wit<g ref="char:EOLhyphen"/>neſs, to be tipling in any Inn, Alehouſe or Victualing-houſe, he ſhall incur the like Penalty, and to be levied and diſpoſed as in the ſaid former A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is expreſſed concerning ſuch as there inhabit. The Offenders confeſſion (before ſuch as by the former Statutes are to miniſter the Oath) ſhall convict himſelf, and his Oath afterwards ſhall be proof a<g ref="char:EOLhyphen"/>gainſt another.</p>
+               <p>Any Iuſtice of Peace, upon his view, the Parties confeſ<g ref="char:EOLhyphen"/>ſion, or Oath of one Witneſs, may convict any perſon of drunkenneſs, whereby he ſhall incur the forfeiture of Five ſhillings, to be levied, or the Offender puniſh'd, as in the former Statutes appointed. And for the ſecond Offence he ſhall be bound to the Good Behaviour.</p>
+               <p>If an Alehouſe-kéeper be lawfully convict of an Offence againſt this or the two former Statutes, he ſhall for Thrée pears after be diſabled to kéep ſuch Alehouſe.</p>
+               <p>
+                  <pb n="10" facs="tcp:107747:6"/>
+                  <!-- PDF PAGE 66 -->
+                  <label>1 Car. 1. cap. 4.</label> Every Inn-kéeper, Alehouſe-kéeper, and other Victualer permitting any perſon, not inhabiting in the City where the Inn or Victualing-houſe is, to tipple therein, contrary to the intent of the Statutes of <hi>1 Jac. 9. &amp; 4 Jac. 5.</hi> he ſhall incur the Penalty appointed by the ſaid Statute of <hi>1 Jac.</hi> for permitting ſuch to tipple as dwell in the City.</p>
+               <p>Kéepers of Caverns, and ſuch as ſell Wine in their Hou<g ref="char:EOLhyphen"/>ſes, and alſo kéep Inns or Victualing in their Houſes, ſhall be taken to be within this and the ſaid two former Sta<g ref="char:EOLhyphen"/>tutes.</p>
+            </div>
+            <div type="part">
+               <head>Swearing.</head>
+               <p>
+                  <label>21 Jac. cap. 20.</label> IF any perſon ſhall profanely Swear or Curſe either in the hearing of a Iuſtice of the Peace, or be convicted thereof before him by the Oaths of Two Witneſſes, or the parties confeſſion, he ſhall for every time offending forfeit and pay Twelve pence to the uſe of the Poor of the Pariſh where the Offence is committed. The Conſtable, Churchwardens, or Overſéers of the Poor of that Pariſh, to levy the ſame by Warrant from ſuch Iu<g ref="char:EOLhyphen"/>ſtice of the Peace by Diſtreſs and Sale of the Offenders Goods, rendring him the Overplus. In default of Diſtreſs, the Offender (if above Twelve years old) ſhall by Warrant from ſuch Iuſtice be ſet in the Stocks Thrée hours; if under Twelve, be whipped by the Conſtable, Parent, or Maſtec, by Warrant of ſuch Iuſtice in his preſence.</p>
+               <p>
+                  <hi>This continued 17 Car. 1. cap. 4.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Beggars.</head>
+               <p>
+                  <label>39 Eliz. cap. 4.</label> ALL Rogues, Vagabonds, or ſturdy Beg<g ref="char:EOLhyphen"/>gars (which all idle perſons going about to beg ars by the ſaid Statute declared to be) taken beg<g ref="char:EOLhyphen"/>ging, vagrant, wandring, or miſordering themſelves, ſhall upon their Apprehenſion, by the appointment of a Iuſtice of Peace, or Conſtable, of the County or Pariſh where ſuch perſon ſhall be taken, be ſtripped naked from the mid<g ref="char:EOLhyphen"/>dle upward, and be openly whipped tilt his or her Body be
+<pb n="11" facs="tcp:107747:6"/>
+                  <!-- PDF PAGE 66 -->bloody; and ſhall be forthwith ſent from Pariſh to Pariſh the next ſtreight way to the Pariſh where he was born, if the ſame may be known by the parties confeſſion, or o<g ref="char:EOLhyphen"/>therwiſe: And if the ſame be not known, then to the Pa<g ref="char:EOLhyphen"/>riſh where he or ſhe laſt dwelt, before the ſame Puniſhment, by the ſpace of one whole year, there to put him or her ſelf to labour; Or not being known where he or ſhe was born or laſt dwelt, then to the Pariſh through which they laſt paſſed without puniſhment. After which whipping the ſame perſon ſhall have a Teſtimonial under the Hand and Seal of the Iuſtice of Peace and Conſtable, teſtifying the time and place of his or her puniſhment, and the place whether they are limited to go, and by what time they are to paſs thither: And if the ſaid perſon, through his or her default, do dot accompliſh the order given in the ſaid Teſtimonial, then to be taken again and whipped, and ſo as oft as there ſhall be ſuch default. The party ſo whipped, and not known where he or ſhe was born or laſt dwelt by the ſpace of a year, ſhall by the Officer of the place where he or ſhe laſt paſſed through without puniſhment, be conveyed to the Houſe of Correction, there to be imployed in work till he or ſhe ſhall be placed in ſome Service, and ſo to continue for a year, or (if not able of Body) till placed in ſome Almes-houſe.</p>
+               <p>If the Conſtable do not his beſt endeavour for appre<g ref="char:EOLhyphen"/>hending every ſuch Vagabond, Rogue, or ſturdy Beggar, and cauſe them to be puniſhed and conveyed according to this Act, he ſhall forfeit Ten ſhillings.</p>
+               <p>If any perſon diſturb or let the Execution hereof, he ſhall forfeit Five pounds, and be bound to the Good Behaviour.</p>
+               <p>The ſaid Forfeitures to be imployed for Maintenance of the Houſe of Correction, or Relief of the Poor where the Offence ſhall be committed, at the diſcretion of the Iuſti<g ref="char:EOLhyphen"/>ces of the Peace, and be levied by Warrant of Two Iu<g ref="char:EOLhyphen"/>ſtices by Diſtreſs and Sale of the Offenders Goods upon the parties confeſſion, or proof by Two Witneſſes before Two Iuſtices.</p>
+               <p>This not to extend to Children under Seven years, nor to Seafaring-men ſuffering Shipwrack, having a Paſs from a Iuſtice of Peace near the place where he landed, but that they may beg in their Paſſage.</p>
+               <p>
+                  <pb n="12" facs="tcp:107747:7"/>
+                  <!-- PDF PAGE 67 -->
+                  <label>1 Jac. cap. 7.</label> All perſons ſhall apprehend ſuch Rogues, Vagabonds, and ſturdy Beggars, as they ſhall ſee reſort to their Houſes to beg, and cauſe them to be carried to the next Conſtable, on pain to forfeit Ten ſhillings, to be le<g ref="char:EOLhyphen"/>vied and imployed, and upon like proof and conviction as is appointed by the ſaid former Act.</p>
+               <p>The Conſtable not cauſing the ſaid Rogues, Vegabonds, or ſturdy Beggars to be puniſhed and conveyed (as above directed) ſhall forfeit Twenty ſhillings for every default, to be levied and imployed, as before.</p>
+               <p>
+                  <hi>Both theſe Statutes are continued 21 <hi>Jac.</hi> cap. 28. 3 <hi>Car.</hi> 1. <hi>cap.</hi> 4. &amp; 17 <hi>Car.</hi> 1. <hi>cap.</hi> 4.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. Roycroft,</hi> Printer to the Ho<g ref="char:EOLhyphen"/>nourable City. 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
